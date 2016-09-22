@@ -338,7 +338,6 @@ class Plot extends LayoutDOM.Model
       lod_threshold:     [ p.Number,   2000                   ]
       lod_timeout:       [ p.Number,   500                    ]
 
-      webgl:             [ p.Bool,     false                  ]
       hidpi:             [ p.Bool,     true                   ]
 
       min_border:        [ p.Number,   5                      ]
